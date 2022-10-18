@@ -38,4 +38,4 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=1219 metric#misses=12 metric#hit-ratio=99.0 metric#bytes=310801 metric#prefetches=24 metric#store-reads=21 metric#store-writes=2 metric#store-hits=32 metric#store-misses=9 metric#sql-queries=7 metric#ms-total=695.33 metric#ms-cache=5.72 metric#ms-cache-median=0.10 metric#ms-cache-ratio=0.8 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=1216 metric#misses=8 metric#hit-ratio=99.4 metric#bytes=310662 metric#prefetches=20 metric#store-reads=20 metric#store-writes=1 metric#store-hits=29 metric#store-misses=5 metric#sql-queries=6 metric#ms-total=411.22 metric#ms-cache=3.13 metric#ms-cache-median=0.09 metric#ms-cache-ratio=0.8 -->
